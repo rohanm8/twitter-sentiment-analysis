@@ -1,0 +1,4 @@
+# Data and outputs
+*.npy
+*.csv
+*.zip
